@@ -1,0 +1,292 @@
+{
+    "regions": [
+      {
+        "name": "ap-northeast-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "JP",
+        "geolocationRegion": "JP-13",
+        "longName": "Asia Pacific (Tokyo)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-southeast-5",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "MY",
+        "geolocationRegion": "MY-14",
+        "longName": "Asia Pacific (Malaysia)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-southeast-7",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "TH",
+        "geolocationRegion": "TH-10",
+        "longName": "Asia Pacific (Thailand)",
+        "partition": "aws"
+      },
+      {
+        "name": "eu-central-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "DE",
+        "geolocationRegion": "DE-HE",
+        "longName": "Europe (Frankfurt)",
+        "partition": "aws"
+      },
+      {
+        "name": "eu-north-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "SE",
+        "geolocationRegion": "SE-AB",
+        "longName": "Europe (Stockholm)",
+        "partition": "aws"
+      },
+      {
+        "name": "me-south-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "BH",
+        "geolocationRegion": "BH-14",
+        "longName": "Middle East (Bahrain)",
+        "partition": "aws"
+      },
+      {
+        "name": "sa-east-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "BR",
+        "geolocationRegion": "BR-SP",
+        "longName": "South America (Sao Paulo)",
+        "partition": "aws"
+      },
+      {
+        "name": "us-gov-east-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "US",
+        "geolocationRegion": "US-OH",
+        "longName": "AWS GovCloud (US-East)",
+        "partition": "aws-us-gov"
+      },
+      {
+        "name": "us-gov-west-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "US",
+        "geolocationRegion": "US-OR",
+        "longName": "AWS GovCloud (US-West)",
+        "partition": "aws-us-gov"
+      },
+      {
+        "name": "us-west-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "US",
+        "geolocationRegion": "US-CA",
+        "longName": "US West (N. California)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-northeast-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "KR",
+        "geolocationRegion": "KR-28",
+        "longName": "Asia Pacific (Seoul)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-northeast-3",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "JP",
+        "geolocationRegion": "JP-27",
+        "longName": "Asia Pacific (Osaka)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-south-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "IN",
+        "geolocationRegion": "IN-MH",
+        "longName": "Asia Pacific (Mumbai)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-southeast-3",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "ID",
+        "geolocationRegion": "ID-JK",
+        "longName": "Asia Pacific (Jakarta)",
+        "partition": "aws"
+      },
+      {
+        "name": "cn-north-1",
+        "domain": "amazonaws.com.cn",
+        "geolocationCountry": "CN",
+        "geolocationRegion": "CN-BJ",
+        "longName": "China (Beijing)",
+        "partition": "aws-cn"
+      },
+      {
+        "name": "eu-south-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "IT",
+        "geolocationRegion": "IT-MI",
+        "longName": "Europe (Milan)",
+        "partition": "aws"
+      },
+      {
+        "name": "eu-west-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "IE",
+        "geolocationRegion": "IE-D",
+        "longName": "Europe (Ireland)",
+        "partition": "aws"
+      },
+      {
+        "name": "eu-west-3",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "FR",
+        "geolocationRegion": "FR-75C",
+        "longName": "Europe (Paris)",
+        "partition": "aws"
+      },
+      {
+        "name": "il-central-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "IL",
+        "geolocationRegion": "IL-TA",
+        "longName": "Israel (Tel Aviv)",
+        "partition": "aws"
+      },
+      {
+        "name": "us-east-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "US",
+        "geolocationRegion": "US-OH",
+        "longName": "US East (Ohio)",
+        "partition": "aws"
+      },
+      {
+        "name": "af-south-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "ZA",
+        "geolocationRegion": "ZA-WC",
+        "longName": "Africa (Cape Town)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-east-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "CN",
+        "geolocationRegion": "CN-HK",
+        "longName": "Asia Pacific (Hong Kong)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-south-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "IN",
+        "geolocationRegion": "IN-TG",
+        "longName": "Asia Pacific (Hyderabad)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-southeast-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "SG",
+        "geolocationRegion": "SG-01",
+        "longName": "Asia Pacific (Singapore)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-southeast-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "AU",
+        "geolocationRegion": "AU-NSW",
+        "longName": "Asia Pacific (Sydney)",
+        "partition": "aws"
+      },
+      {
+        "name": "ca-west-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "CA",
+        "geolocationRegion": "CA-AB",
+        "longName": "Canada West (Calgary)",
+        "partition": "aws"
+      },
+      {
+        "name": "cn-northwest-1",
+        "domain": "amazonaws.com.cn",
+        "geolocationCountry": "CN",
+        "geolocationRegion": "CN-NX",
+        "longName": "China (Ningxia)",
+        "partition": "aws-cn"
+      },
+      {
+        "name": "eu-central-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "CH",
+        "geolocationRegion": "CH-ZH",
+        "longName": "Europe (Zurich)",
+        "partition": "aws"
+      },
+      {
+        "name": "me-central-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "AE",
+        "geolocationRegion": "AE-DU",
+        "longName": "Middle East (UAE)",
+        "partition": "aws"
+      },
+      {
+        "name": "us-west-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "US",
+        "geolocationRegion": "US-OR",
+        "longName": "US West (Oregon)",
+        "partition": "aws"
+      },
+      {
+        "name": "ap-southeast-4",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "AU",
+        "geolocationRegion": "AU-VIC",
+        "longName": "Asia Pacific (Melbourne)",
+        "partition": "aws"
+      },
+      {
+        "name": "ca-central-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "CA",
+        "geolocationRegion": "CA-QC",
+        "longName": "Canada (Central)",
+        "partition": "aws"
+      },
+      {
+        "name": "eu-south-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "ES",
+        "geolocationRegion": "ES-AR",
+        "longName": "Europe (Spain)",
+        "partition": "aws"
+      },
+      {
+        "name": "eu-west-2",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "GB",
+        "geolocationRegion": "GB-LND",
+        "longName": "Europe (London)",
+        "partition": "aws"
+      },
+      {
+        "name": "mx-central-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "MX",
+        "geolocationRegion": "MX-QUE",
+        "longName": "Mexico (Central)",
+        "partition": "aws"
+      },
+      {
+        "name": "us-east-1",
+        "domain": "amazonaws.com",
+        "geolocationCountry": "US",
+        "geolocationRegion": "US-VA",
+        "longName": "US East (N. Virginia)",
+        "partition": "aws"
+      }
+    ]
+  }

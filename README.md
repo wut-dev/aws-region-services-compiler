@@ -15,6 +15,11 @@ The AWS service metadata includes:
 * Full name (`AWS IAM Access Analyzer`)
 * Every region, with a `true` or `false` boolean representing the services's availability in that region
 
+## Give Me The Data
+If you just want to see the output:
+* [data/regions.json](data/regions.json) is a list of AWS regions
+* [data/services.json](data/services.json) is a list of AWS services, with availability for each region
+
 ## How It Works
 
 AWS pushes metadata about its regions and services to SSM Parameter Store under the `/aws/service/global-infrastructure` path. You can read more about this on the [AWS Blog](https://aws.amazon.com/blogs/aws/new-query-for-aws-regions-endpoints-and-more-using-aws-systems-manager-parameter-store/).
